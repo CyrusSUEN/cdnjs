@@ -21,10 +21,7 @@
     "target": "git://github.com/dhowe/RiTaJS.git",
     "basePath": "dist",
     "files": [
-      "rita-full.js",
-      "rita-full.min.js",
-      "rita.js",
-      "rita.min.js"
+      "**/*"
     ]
   },
   "filename": "rita.min.js"
